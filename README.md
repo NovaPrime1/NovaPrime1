@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NovaPrime1
-- 👀 I’m interested in Client-Side frameworks...
-- 🌱 I’m currently learning ReactJS and NodeJS..
+- 👀 I’m interested in Client-Side frameworks and Spring MVC
+- 🌱 I’m currently learning ReactJS and NodeJS and building some projects in spring MVC to learn new features
 - 💞️ I’m looking to collaborate on Client-side frameworks, spring MVC and NodeJS...
 - 📫 How to reach me on email corey.powe@gmail.com or instagram coreypowe704..
 
